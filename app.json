@@ -1,0 +1,15 @@
+{
+  
+   "expo": {
+    "name": "Irvine",
+    "version": "25.0.0",
+    "slug": "irvine",
+    "sdkVersion": "25.0.0",
+    "ios": {
+      "bundleIdentifier": "com.irvine.apartment"
+    },
+    "android": {
+      "package": "com.irvine.apartment"
+    }
+   }
+}
